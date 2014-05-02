@@ -11,6 +11,7 @@
   and EPS. To link to a specific version directly, add <kbd>.png</kbd>, <kbd>.gif</kbd>, <kbd>-v.svg</kbd> or <kbd>-v.eps</kbd>
   to the generic URI (or <a href="http://x4d.surgut.co.uk/Icons/">browse the icons repository to see all versions</a>).</p>
 
+<center>
 <table>
   <tbody>
 
@@ -230,3 +231,4 @@
 </tr>
   </tbody>
 </table>
+</center>
