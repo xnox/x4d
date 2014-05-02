@@ -22,13 +22,16 @@ generate CSS '' css
 generate CSS 'LEVEL 1' css1
 generate CSS 'LEVEL 2' css2
 
+generate MathML '2.0' mathml20
+
 generate SVG '1.0' svg10
 generate SVG '1.1' svg11
+generate SVG '1.2' svg12
 generate SVG 'TINY 1.1' svgtiny11
 generate SVG 'TINY 1.2' svgtiny12
 
 generate XML '1.0' xml10
-generate XML '1.1' xml10
+generate XML '1.1' xml11
 
 /bin/ls Icons/*.svg | sed 's/-v\.svg//' | xargs -L1 -I{} convert {}-v.svg {}.png
 /bin/ls Icons/*.svg | sed 's/-v\.svg//' | xargs -L1 -I{} convert {}-v.svg {}.gif
