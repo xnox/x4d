@@ -1,9 +1,7 @@
 <h1>X4D icon set</h1>
-<p>All materials on this website are provided under MIT
+<p>All icons are provided under MIT
   license. See <a href="http://x4d.surgut.co.uk/LICENSE">LICENSE</a> file
   for details.</p>
-<p>Fork me on <a href="https://github.com/xnox/x4d">GitHub</a>.</p>
-
 <p>The icons below are all available in <acronym title="Portable Network Graphics">PNG</acronym>, 
   <acronym title="Graphics Interchange Format">GIF</acronym>, <acronym title="Scalable Vector Graphics">SVG</acronym> 
   and EPS. To link to a specific version directly, add <kbd>.png</kbd>, <kbd>.gif</kbd>, <kbd>-v.svg</kbd> or <kbd>-v.eps</kbd>
