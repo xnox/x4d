@@ -33,6 +33,6 @@ generate SVG 'TINY 1.2' svgtiny12
 generate XML '1.0' xml10
 generate XML '1.1' xml11
 
-/bin/ls Icons/*.svg | sed 's/-v\.svg//' | xargs -L1 -I{} convert {}-v.svg {}.png
-/bin/ls Icons/*.svg | sed 's/-v\.svg//' | xargs -L1 -I{} convert {}-v.svg {}.gif
-/bin/ls Icons/*.svg | sed 's/-v\.svg//' | xargs -L1 -I{} convert {}-v.svg {}-v.eps
+/bin/ls Icons/*.svg | sed 's/-v\.svg//' | xargs -L1 -I{} convert -background none {}-v.svg {}.png
+/bin/ls Icons/*.svg | sed 's/-v\.svg//' | xargs -L1 -I{} convert -background none {}-v.svg {}.gif
+/bin/ls Icons/*.svg | sed 's/-v\.svg//' | xargs -L1 -I{} convert -background none {}-v.svg {}-v.eps
