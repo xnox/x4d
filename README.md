@@ -4,8 +4,6 @@
   for details.</p>
 <p>Fork me on <a href="https://github.com/xnox/x4d">GitHub</a>.</p>
 
-<h2>List of Icons</h2>
-
 <p>The icons below are all available in <acronym title="Portable Network Graphics">PNG</acronym>, 
   <acronym title="Graphics Interchange Format">GIF</acronym>, <acronym title="Scalable Vector Graphics">SVG</acronym> 
   and EPS. To link to a specific version directly, add <kbd>.png</kbd>, <kbd>.gif</kbd>, <kbd>-v.svg</kbd> or <kbd>-v.eps</kbd>
