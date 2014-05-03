@@ -1,0 +1,3 @@
+version=2
+opts=filenamemangle=s/.+\/v?(\d\S*)\.tar\.gz/x4d-$1\.tar\.gz/ \
+  https://github.com/xnox/x4d/tags .*/v?(\d\S*)\.tar\.gz
