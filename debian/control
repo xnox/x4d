@@ -1,5 +1,5 @@
 Source: x4d-icons
-Section: unknown
+Section: graphics
 Priority: optional
 Maintainer: Dimitri John Ledkov <xnox@debian.org>
 Build-Depends: debhelper (>= 9), imagemagick, faketime, librsvg2-bin, fonts-dejavu-core
