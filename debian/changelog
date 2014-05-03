@@ -1,5 +1,5 @@
-x4d-icons (1.2-1) UNRELEASED; urgency=low
+x4d-icons (1.2-1) unstable; urgency=low
 
   * Initial release (Closes: #746739)
 
- -- Dimitri John Ledkov <xnox@debian.org>  Sat, 03 May 2014 06:01:53 +0100
+ -- Dimitri John Ledkov <xnox@ubuntu.com>  Sat, 03 May 2014 07:39:01 +0100
